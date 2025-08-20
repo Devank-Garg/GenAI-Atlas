@@ -56,19 +56,6 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 
 
 
-
-```
-
-genai-atlas/
-├── tutorials/      \# Explanations, guides, and how-tos
-├── notebooks/      \# Colab/Jupyter demos
-├── resources/      \# Curated links: papers, blogs, videos
-├── examples/       \# Mini-projects for applied learning
-├── docs/           \# Visuals, diagrams, FAQ
-└── community/      \# Discussions, contributors, project ideas
-
-````
-
 ### 🚀 Getting Started
 
 #### 🔧 Setup
@@ -129,4 +116,3 @@ This project is licensed under the [Apache 2.0 License](LICENSE) — free to use
 ### 🙌 Acknowledgements
 
 Thanks to all contributors, researchers, and open-source projects that inspire and power this roadmap. Special thanks to the AI community for making learning collaborative.
-````
