@@ -1,66 +1,75 @@
 
-#  LLMs and Agentic AI  🤖 🧠
 
- - Agentic AI
- - LLMs
- - Industry Applications
+## 📘 ROADMAP.md  
 
-## 1. LLMs
+# 🗺 GenAI-Atlas Roadmap
 
-### 1.1. Definition
+This roadmap organizes the world of **Generative AI, LLMs, and Agentic AI** into a structured flow.  
+It’s meant to guide both **beginners** and **practitioners** step by step.
 
-### 1.2. Basic Terminologies
+---
 
-### 1.3. LLM Training
+## 1️⃣ Large Language Models (LLMs)
+- What are LLMs?  
+- Basic terminologies  
+- Open-source vs Closed-source models  
+- Model architectures (Transformer, encoder-decoder, decoder-only)  
+- Evaluation metrics (perplexity, BLEU, ROUGE, preference models)  
 
-### 1.4. Open Source
+---
 
-### 1.5. Closed Source
+## 2️⃣ Getting Started
+- API usage (OpenAI, Anthropic, Cohere, etc.)  
+- Model serving basics  
+- Prompt engineering (zero-shot, few-shot, chain-of-thought, self-consistency)  
+- Embeddings and vector databases (FAISS, Weaviate, Pinecone)  
+- Retrieval-Augmented Generation (RAG)  
 
-## 2. Getting Started
+---
 
-### 2.1. Connect with LLMs
+## 3️⃣ Agentic AI
+- Tool calling (LangChain, LlamaIndex, Semantic Kernel, MCP)  
+- Memory (short-term vs long-term memory in agents)  
+- Multi-agent systems & orchestration  
+- Sample agents (basic assistant, code agent)  
+- Advanced RL-based agents  
 
-### 2.2. Understanding APIs
+---
 
-### 2.3. Handling Responses and Parsing
+## 4️⃣ LLM Training
+- Pretraining  
+- Supervised Fine-Tuning (SFT)  
+- Parameter-Efficient Fine-Tuning (PEFT, LoRA, adapters)  
+- Preference alignment (DPO, PPO, RLHF)  
+- Knowledge distillation & model compression  
+- Deployment optimization (quantization, pruning, distillation)  
 
-### 2.4. Ollama/vllm Serving
+---
 
-### 2.5. RAG
+## 5️⃣ Industry Adoption
+- Use cases (chatbots, copilots, domain-specific assistants)  
+- Best practices (evaluation, safety, bias reduction)  
+- Compliance & governance (GDPR, EU AI Act, ethical AI)  
+- Deployment strategies (cloud vs on-device, cost optimization)  
+- Hype vs reality  
 
-## 3. Agentic AI
+---
 
-### 3.1. What is Agentic AI?
+## 6️⃣ (Optional) Multimodal Generative AI
+- Vision models (Diffusion, GANs, CLIP, Stable Diffusion)  
+- Audio & speech (TTS, STT, music generation)  
+- Video generation (text-to-video, video editing)  
+- Multimodal foundation models (Gemini, GPT-4o, Kosmos, DeepSeek-VL)  
 
-### 3.2. Tool Calling with MCP
+---
 
-### 3.3. Popular Frameworks
+## 🎯 Future Directions
+- Reasoning-focused LLMs (OpenAI o1, DeepSeek models)  
+- Neuro-symbolic hybrids  
+- Multi-agent ecosystems  
+- AI governance and policy  
 
-### 3.4. Sample Agents
+---
 
-### 3.5. Advanced Agents (RL)
-
-## 4. LLM Training
-
-### 4.1. What is Pretraining?
-
-### 4.2. SFT
-
-### 4.3. PEFT
-
-### 4.4. Preference Fine Tuning
-
-### 4.5. RLVR
-
-## 5. Industry
-
-### 5.1. Usecase
-
-### 5.2. Adaptability
-
-### 5.3. Hype vs Reality
-
-### 5.4. Best Practices
-
-### 5.5. Compliances and Governance
+This roadmap is **living and evolving**.  
+Contribute your ideas, tutorials, or improvements to keep it **up-to-date with the GenAI frontier** 🚀.
