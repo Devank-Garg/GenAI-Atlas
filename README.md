@@ -53,3 +53,96 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 * **Contribute:** Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
 * **Explore:** Dive into a section above and start your journey.
 * **Connect:** Join the discussion in the [Community](community/) folder.
+
+
+```markdown
+# 🌌 GenAI-Atlas
+
+A community-driven roadmap and resource hub for Generative AI, LLMs, and Agentic AI.
+
+### 📌 About
+
+Generative AI is evolving at lightning speed. This project aims to create a structured, open-source hub where anyone can:
+
+* **Learn** the fundamentals of LLMs, Agentic AI, and fine-tuning.
+* **Explore** curated resources, tutorials, and Jupyter notebooks.
+* **Build** real-world mini-projects with step-by-step guides.
+* **Collaborate** and contribute new knowledge back to the community.
+
+Our mission is to simplify the chaos of the GenAI ecosystem into a clear, actionable roadmap for both beginners and practitioners.
+
+### 🗂 Repository Structure
+
+```
+
+genai-atlas/
+├── tutorials/      \# Explanations, guides, and how-tos
+├── notebooks/      \# Colab/Jupyter demos
+├── resources/      \# Curated links: papers, blogs, videos
+├── examples/       \# Mini-projects for applied learning
+├── docs/           \# Visuals, diagrams, FAQ
+└── community/      \# Discussions, contributors, project ideas
+
+````
+
+### 🚀 Getting Started
+
+#### 🔧 Setup
+
+1.  Clone the repo:
+    ```bash
+    git clone [https://github.com/](https://github.com/)<your-username>/genai-atlas.git
+    cd genai-atlas
+    ```
+2.  Install dependencies (Python 3.9+ recommended):
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+#### 📘 Try Notebooks
+
+* [Basics: Tokenization & Embeddings](notebooks/basics_tokenization_embeddings.ipynb)
+* [RAG with FAISS](notebooks/rag_with_faiss.ipynb)
+* [Agentic AI Demo](notebooks/agentic_ai_demo.ipynb)
+
+<a href="https://colab.research.google.com/github/<your-username>/genai-atlas/blob/main/notebooks/basics_tokenization_embeddings.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+(Open directly in Colab)
+
+### 📚 Roadmap
+
+The roadmap is divided into these key pillars:
+
+* **LLMs** → definition, terminology, open/closed-source
+* **Getting Started** → APIs, RAG, serving
+* **Agentic AI** → tool calling, frameworks, agents
+* **LLM Training** → SFT, PEFT, RLHF, fine-tuning
+* **Industry** → use cases, best practices, compliance
+
+📍 See the [full roadmap](ROADMAP.md) for more details.
+
+### 🌟 How to Contribute
+
+We welcome contributions of all forms:
+
+* 📖 Adding tutorials or explanations
+* 📝 Writing blogs, resources, or papers summary
+* 💻 Uploading working notebooks / demos
+* 🛠 Suggesting new project ideas
+
+👉 Check our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+
+### 💬 Community
+
+* [GitHub Discussions](https://github.com/<your-username>/genai-atlas/discussions)
+* (Optional) Join our Discord/Slack for real-time collaboration.
+
+### 📜 License
+
+This project is licensed under the [Apache 2.0 License](LICENSE) — free to use, modify, and share.
+
+### 🙌 Acknowledgements
+
+Thanks to all contributors, researchers, and open-source projects that inspire and power this roadmap. Special thanks to the AI community for making learning collaborative.
+````
