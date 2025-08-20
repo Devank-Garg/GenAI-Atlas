@@ -16,13 +16,6 @@ Our mission is to **simplify the chaos** of the GenAI ecosystem into a clear, ac
 
 ---
 
-## 🗂 Repository Structure
-# 🗺️ GenAI Atlas
-
-Welcome to the **GenAI Atlas**, your comprehensive, open-source guide to Generative AI. This repository is designed to be a single source of truth for learning, experimenting, and contributing to the world of Generative AI.
-
----
-
 ### Repository Structure
 
 This atlas is organized to help you navigate from foundational concepts to hands-on applications.
