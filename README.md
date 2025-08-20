@@ -55,23 +55,7 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 * **Connect:** Join the discussion in the [Community](community/) folder.
 
 
-```markdown
-# 🌌 GenAI-Atlas
 
-A community-driven roadmap and resource hub for Generative AI, LLMs, and Agentic AI.
-
-### 📌 About
-
-Generative AI is evolving at lightning speed. This project aims to create a structured, open-source hub where anyone can:
-
-* **Learn** the fundamentals of LLMs, Agentic AI, and fine-tuning.
-* **Explore** curated resources, tutorials, and Jupyter notebooks.
-* **Build** real-world mini-projects with step-by-step guides.
-* **Collaborate** and contribute new knowledge back to the community.
-
-Our mission is to simplify the chaos of the GenAI ecosystem into a clear, actionable roadmap for both beginners and practitioners.
-
-### 🗂 Repository Structure
 
 ```
 
