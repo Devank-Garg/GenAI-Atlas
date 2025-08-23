@@ -72,7 +72,7 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 
 #### 📘 Try Notebooks
 
-* [Basics: Tokenization & Embeddings](notebooks/basics_tokenization_embeddings.ipynb)
+* [Basics: Tokenization & Embeddings](notebooks/Embeddings.ipynb)
 * [LangChain RAG](notebooks/COMPLETE_RAG_WITH_LANGCHAIN.ipynb)
 * [Agentic AI Demo](notebooks/agentic_ai_demo.ipynb)
 
