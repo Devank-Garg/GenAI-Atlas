@@ -1,0 +1,60 @@
+from dotenv import load_dotenv
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import PydanticOutputParser
+from pydantic import BaseModel
+
+# Load environment variables
+load_dotenv()
+
+# Initialize Gemini model
+model = ChatGoogleGenerativeAI(
+    model='gemini-2.5-pro',
+    temperature=0.7,
+    response_mime_type="application/json"
+)
+
+# Pydantic model for a simplified film idea
+class SimpleFilmIdea(BaseModel):
+    title: str
+    genre: str
+    logline: str
+    concept: str
+
+# Create the Pydantic output parser
+parser = PydanticOutputParser(pydantic_object=SimpleFilmIdea)
+
+# Define a simple chat prompt
+prompt = ChatPromptTemplate.from_messages([
+    ("system", """
+    You are a creative film screenwriter. Your task is to generate a simple, structured film idea.
+    The idea must be concise and creative, focusing on the core elements of a film.
+    Your response must be in JSON format, following the exact schema provided.
+    """),
+    ("user", """
+    Generate a complete film idea with the following fields:
+    1. title
+    2. genre
+    3. logline
+    4. concept
+
+    {format_instructions}
+    """)
+])
+
+# Partially fill the prompt with the format instructions
+prompt = prompt.partial(format_instructions=parser.get_format_instructions())
+
+# Create the LangChain a chain
+chain = prompt | model | parser
+
+# Invoke the chain to get the structured film idea
+idea = chain.invoke({})
+
+# --- Proper printing of the result ---
+print("--- FILM IDEA ---")
+print(f"Title: {idea.title}")
+print(f"Genre: {idea.genre}\n")
+print(f"Logline: \n{idea.logline}\n")
+print(f"Concept: \n{idea.concept}")
+print("-------------------")
