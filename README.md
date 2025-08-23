@@ -73,14 +73,12 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 #### 📘 Try Notebooks
 
 * [Basics: Tokenization & Embeddings](notebooks/basics_tokenization_embeddings.ipynb)
-* [RAG with FAISS](notebooks/rag_with_faiss.ipynb)
+* [LangChain RAG](notebooks/COMPLETE_RAG_WITH_LANGCHAIN.ipynb)
 * [Agentic AI Demo](notebooks/agentic_ai_demo.ipynb)
 
-<a href="https://colab.research.google.com/github/<your-username>/genai-atlas/blob/main/notebooks/basics_tokenization_embeddings.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/Devank-Garg/genai-atlas/blob/main/notebooks/COMPLETE_RAG_WITH_LANGCHAIN.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-(Open directly in Colab)
-
 ### 📚 Roadmap
 
 The roadmap is divided into these key pillars:
