@@ -14,7 +14,7 @@ Visual and intuitive explanations of complex topics. Great for staying updated a
 * **[Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)**: Dr. Károly Zsolnai-Fehér provides quick, exciting summaries of the latest AI research papers. Perfect for getting the gist of cutting-edge developments.
 * **[Matthew Berman](https://www.youtube.com/@matthew_berman)**: Covers the latest AI news, tutorials on new tools, and discussions on open-source models, large language models (LLMs), and generative art.
 * **[AI with Brandon](https://www.youtube.com/@aiwithbrandon)**: Teaches developers how to build full-stack AI applications with a focus on practical workflows, real use cases, and the latest frameworks.
-* **[Dave Ebbelaar]([https://www.youtube.com/@DavidEbbo](https://www.youtube.com/@daveebbelaar))**: A software engineer (formerly at Microsoft and Google) who shares insights and practical tutorials on AI development, often focusing on frameworks like Semantic Kernel.
+* **[Dave Ebbelaar](https://www.youtube.com/@daveebbelaar)**: A software engineer (formerly at Microsoft and Google) who shares insights and practical tutorials on AI development, often focusing on frameworks like Semantic Kernel.
 * **[AI Explained](https://www.youtube.com/@AIExplained)**: Breaks down complex AI news and models into easy-to-understand, high-level explanations.
 * **[Yannic Kilcher](https://www.youtube.com/@YannicKilcher)**: Offers in-depth technical explanations and reviews of AI research papers.
 * **[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)**: Not strictly GenAI, but provides crystal-clear explanations of foundational machine learning and statistics concepts. Bam! 💥
