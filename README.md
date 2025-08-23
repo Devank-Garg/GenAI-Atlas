@@ -72,9 +72,9 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 
 #### 📘 Try Notebooks
 
-* [Basics: Tokenization & Embeddings](notebooks/basics_tokenization_embeddings.ipynb)
+* [Basics: Tokenization & Embeddings](notebooks/Embeddings.ipynb)
 * [LangChain RAG](notebooks/COMPLETE_RAG_WITH_LANGCHAIN.ipynb)
-* [Agentic AI Demo](notebooks/agentic_ai_demo.ipynb)
+* [Agentic AI Demo](notebooks/Agents_with_PydanticAI.ipynb)
 
 <a href="https://colab.research.google.com/github/Devank-Garg/genai-atlas/blob/main/notebooks/COMPLETE_RAG_WITH_LANGCHAIN.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
