@@ -79,6 +79,8 @@ We believe in the power of open collaboration. Whether you're a seasoned expert 
 <a href="https://colab.research.google.com/github/Devank-Garg/genai-atlas/blob/main/notebooks/COMPLETE_RAG_WITH_LANGCHAIN.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
 ### 📚 Roadmap
 
 The roadmap is divided into these key pillars:
