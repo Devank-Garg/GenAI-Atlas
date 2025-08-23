@@ -107,7 +107,6 @@ We welcome contributions of all forms:
 ### 💬 Community
 
 * [GitHub Discussions](https://github.com/Devank-Garg/genai-atlas/discussions)
-* (Optional) Join our Discord/Slack for real-time collaboration.
 
 ### 📜 License
 
